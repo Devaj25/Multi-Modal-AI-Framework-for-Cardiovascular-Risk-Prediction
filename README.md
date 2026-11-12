@@ -66,3 +66,43 @@ This project was developed as a B.Tech research project at **SRM Institute of Sc
 
 **Devaj B R**  
 B.Tech Artificial Intelligence
+
+## Project Architecture
+
+![Architecture Diagram](screenshots/05_architecture_diagram.png)
+
+## System Design
+
+![UML Diagram](screenshots/06_uml_diagram.png)
+
+## Model Training Results
+
+### Training Accuracy & Loss
+
+![Training Accuracy and Loss](screenshots/07_training_accuracy_loss.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/08_confusion_matrix.png)
+
+### Classification Report
+
+![Classification Report](screenshots/09_classification_report.png)
+
+### ROC Curve
+
+![ROC Curve](screenshots/10_roc_curve.png)
+
+## Application
+
+### Streamlit Interface
+
+![Streamlit Interface](screenshots/11_streamlit_interface.png)
+
+### Normal Risk Prediction
+
+![Normal Prediction](screenshots/12_normal_prediction.png)
+
+### High Cardiovascular Risk Prediction
+
+![High CVD Risk Prediction](screenshots/13_high_cvd_risk_prediction.png)
