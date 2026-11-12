@@ -106,3 +106,10 @@ B.Tech Artificial Intelligence
 ### High Cardiovascular Risk Prediction
 
 ![High CVD Risk Prediction](screenshots/13_high_cvd_risk_prediction.png)
+
+## Project Resources
+
+- 📘 [Project Report](report/B.Tech-Research-Project.pdf)
+- 📄 [Research Publication](publication/ICONDEEPCOM_094.pdf)
+- 🏆 [Project Certificate](certificate/certificate.pdf)
+- 💻 [Source Code / Jupyter Notebook](Final.ipynb)
